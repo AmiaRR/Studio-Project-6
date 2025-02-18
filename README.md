@@ -2,7 +2,7 @@
 
 https://amiarr.github.io/Studio-Project-6/
 
-///Technical Documentation 
+*Technical Documentation* 
 
 //Brush 
 
