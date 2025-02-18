@@ -52,7 +52,11 @@ I had decided that I wanted collaborativeness to be a key link between my sketch
 In the group feedback sessions during the final zoom class, I was given feedback that I should include a selection of different brushes for the user to choose. I wasn't sure what different kinds of brushes I wanted to include, so I watched some youtube videos for ideas, such as https://www.youtube.com/watch?v=olXv8GOfpNw and then experimented with these ideas on the online p5js editor. I ended up deciding I wanted a watercolour brush, a pixel brush (to reference Glyphiti) as well as keeping my original, glowy paint brush which I labelled ‘spray paint.’ I prompted ChatGPT to give me code to include in my sketch. I also used ChatGPT on how I would create 3 clickable buttons for these 3 brushes, I decided to have the buttons vertically placed between the left buttons and the sliders, with a cluster of dots representing spray paint, a semi-transparent circle representing watercolour, and a square to represent the pixels. As I asked ChatGPT for code to help achieve this specific idea, it decided to make the dots for the ‘spray paint’ icon animated, which wasn’t what I had in mind, but I decided to leave it. I also made the icons pink, and purple when pressed, so the user would be able to tell what brush was being used.  	
 
 
-<img width="355" alt="Screenshot 2025-02-18 at 2 40 34 PM" src="https://github.com/user-attachments/assets/5439bf17-a712-44b6-88e3-33c1dca5b2bb" />
+<img width="355" alt="Screenshot 2025-02-18 at 2 40 34 PM" src="https://github.com/user-attachments/assets/5439bf17-a712-44b6-88e3-33c1dca5b2bb" /> 
+
+<img width="1112" alt="Screenshot 2025-02-10 at 11 04 55 AM" src="https://github.com/user-attachments/assets/f3c83dcf-5237-478b-a0a4-9c463425cccd" />
+
+<img width="1241" alt="Screenshot 2025-02-15 at 10 47 30 PM" src="https://github.com/user-attachments/assets/24f84f99-49f9-4324-878d-a5171dc47f6a" />
 
 
 
